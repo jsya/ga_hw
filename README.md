@@ -9,24 +9,6 @@ Monday | Wednesday
 11/30: [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/02: [Command Line, Version Control](#class-2-command-line-and-version-control)
 12/07: [Data Reading and Cleaning](#class-3-data-reading-and-cleaning) | 12/09: [Exploratory Data Analysis](#class-4-exploratory-data-analysis)
 12/14: [Visualization](#class-5-visualization) | 12/16: [Machine Learning](#class-6-machine-learning)
-12/21: [Getting Data](#class-7-getting-data) | 12/23: [K-Nearest Neighbors](#class-8-k-nearest-neighbors)
-12/28: [Basic Model Evaluation](#class-9-basic-model-evaluation) | 12/30: [Linear Regression](#class-10-linear-regression)
-01/04: [First Project Presentation](#class-11-first-project-presentation) | 01/06: [Logistic Regression](#class-12-logistic-regression)
-01/11: [Advanced Model Evaluation](#class-13-advanced-model-evaluation) | 01/13: [Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data)
-01/18: [Natural Language Processing](#class-15-natural-language-processing) | 01/20: [Kaggle Competition](#class-16-kaggle-competition)
-10/13: [Decision Trees](#class-17-decision-trees) | 10/15: [Ensembling](#class-18-ensembling)
-01/25: [Advanced scikit-learn, Clustering](#class-19-advanced-scikit-learn-and-clustering) | 01/27: [Regularization, Regex](#class-20-regularization-and-regular-expressions)
-02/01: [TBD]()| 02/03: [TBD] ()
-02/08:  [TBD] () |  02/10: [TBD] ()
-02/15: [TBD] () |  02/17: [Course Review] ()
-02/22: [Final Project Presentations] () | 
-
-
-Monday | Wednesday
---- | ---
-11/30: [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/02: [Command Line, Version Control](#class-2-command-line-and-version-control)
-12/07: [Data Reading and Cleaning](#class-3-data-reading-and-cleaning) | 12/09: [Exploratory Data Analysis](#class-4-exploratory-data-analysis)
-12/14: [Visualization](#class-5-visualization) | 12/16: [Machine Learning](#class-6-machine-learning)
 12/21: [Getting Data](#class-7-getting-data) | 12/23: No Class
 12/28:  [K-Nearest Neighbors](#class-8-k-nearest-neighbors) | 12/30: [Basic Model Evaluation](#class-9-basic-model-evaluation)
 01/04: [Linear Regression](#class-10-linear-regression)| 01/06: [First Project Presentation](#class-11-first-project-presentation) 
@@ -34,7 +16,7 @@ Monday | Wednesday
 01/18: No Class | 01/20:  [Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data)
 01/25: [Natural Language Processing](#class-15-natural-language-processing) | 01/27: [Kaggle Competition](#class-16-kaggle-competition)
 02/01: [Decision Trees](#class-17-decision-trees)| 02/03: [Ensembling](#class-18-ensembling)
-02/08: pAdvanced scikit-learn, Clustering](#class-19-advanced-scikit-learn-and-clustering)  |  02/10: [Regularization, Regex](#class-20-regularization-and-regular-expressions)
+02/08: [Advanced scikit-learn, Clustering](#class-19-advanced-scikit-learn-and-clustering)  |  02/10: [Regularization, Regex](#class-20-regularization-and-regular-expressions)
 02/15: No Class |  02/17: [Course Review] ()
 02/22: [Final Project Presentations] () | 
 
