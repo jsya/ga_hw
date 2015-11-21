@@ -1,8 +1,8 @@
-## DAT8 Course Repository
+## DAT10 Course Repository
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (11/30/15 - 02/22/16).
 
-**Instructor:** Keegan Hines ([blog](http://keeganhin.es/blog/),[github] (https://github.com/keeganhines) ,[twitter](https://twitter.com/keeghin) )
+**Instructor:** Keegan Hines ([blog](http://keeganhin.es/blog/), [github] (https://github.com/keeganhines), [twitter](https://twitter.com/keeghin) )
 
 Monday | Wednesday
 --- | ---
@@ -17,8 +17,8 @@ Monday | Wednesday
 10/13: [Decision Trees](#class-17-decision-trees) | 10/15: [Ensembling](#class-18-ensembling)
 01/25: [Advanced scikit-learn, Clustering](#class-19-advanced-scikit-learn-and-clustering) | 01/27: [Regularization, Regex](#class-20-regularization-and-regular-expressions)
 02/01: [TBD]()| 02/03: [TBD] ()
-02/08:  [TDB] () |  02/10: [TDB] ()
-02/15: [TDB] () |  02/17: [Course Review] ()
+02/08:  [TBD] () |  02/10: [TBD] ()
+02/15: [TBD] () |  02/17: [Course Review] ()
 02/22: [Final Project Presentations] () | 
 
 <!--
