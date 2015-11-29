@@ -62,20 +62,38 @@ Monday | Wednesday
 
 ### [Additional resources](#additional-resources-1)
 
+
+### Local Data Science Resources 
+
+| Resource                | Web                                                                                                                          | Cost | Notes                                                                                                                                                                                      |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Data Community DC (DC2) | http://www.datacommunitydc.org/                                                                                              | $    | DC2 is an umbrella organization of several local Meet Up groups all focused on various aspects of data science. These Meet Ups are almost always free to attend.                           |
+| DataSociety             | http://datasociety.co/                                                                                                       | $$   | Introductory online data science courses with a focus on R.                                                                                                                                |
+| District Data Labs      | http://www.districtdatalabs.com/#!workshops/cwef                                                                             | $$   | Weekend workshops and online courses which each focus on an advanced data science concept. They also have a part-time incubator program where participants collaborate on a final project. |
+| General Assembly        | https://generalassemb.ly/education/data-science                                                                              | $$$  | Part-time classes, you're already here! Good job!                                                                                                                                          |
+| Academic                | https://gradanalytics.georgetown.edu, /http://datasci.columbian.gwu.edu/, http://volgenau.gmu.edu/data-analytics-engineering | $$$$ | Many Universities are now offering Masters degrees and certificate programs in Data Science. These are obviously quite expensive.                                                          |
+
+
 -----
 
 ### Class 1: Introduction to Data Science
-* Course overview ([slides](slides/01_course_overview.pdf))
-* Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
-* Discuss the course project: [requirements](project/README.md) and [example projects](https://github.com/justmarkham/DAT-project-examples)
-* Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
 * Welcome from General Assembly staff
+* Course overview ([slides](slides/01_course_overview.pdf))
+* Group exercise 
+  * [Survey] (http://goo.gl/forms/Gu23YkwnPh)
+  * Analyze results
+* Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
+* Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
+* Discuss the course project: [requirements](project/README.md) and [example projects](https://github.com/justmarkham/DAT-project-examples)
+* Slack tour
+
 
 **Homework:**
+* Find and bring in a dataset that is professionally relevant to you.
 * Work through GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows).
 * Read through this [command line reference](code/02_command_line.md), and complete the pre-class exercise at the bottom. (There's nothing you need to submit once you're done.)
 * Watch videos 1 through 8 (21 minutes) of [Introduction to Git and GitHub](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD), or read sections 1.1 through 2.2 of [Pro Git](http://git-scm.com/book/en/v2).
-* If your laptop has any setup issues, please work with us to resolve them by Thursday. If your laptop has not yet been checked, you should come early on Thursday, or just walk through the [setup checklist](other/setup_checklist.md) yourself (and let us know you have done so).
+* If your laptop has any setup issues, please work with us to resolve them by Wednesday. If your laptop has not yet been checked, you should come early on Wednesday, or just walk through the [setup checklist](other/setup_checklist.md) yourself (and let us know you have done so).
 
 **Resources:**
 * For a useful look at the different types of data scientists, read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) (32 pages).
@@ -85,13 +103,16 @@ Monday | Wednesday
 
 -----
 
-### Class 2: Command Line and Version Control
-* Slack tour
-* Review the command line pre-class exercise ([code](code/02_command_line.md))
+### Class 2: Command Line, Git, and Python Review
+* Review command line concepts and discuss the homework exercise ([code](code/02_command_line.md))
 * Git and GitHub ([slides](slides/02_git_github.pdf))
-* Intermediate command line
+* Python Fundamentals
+  * Python interfaces (shell, script, IDEs, notebooks)
+  * Fundamental programming concepts
 
 **Homework:**
+* Find and bring in a professionally relevant dataset (if not yet done). 
+* Post a question on StackOverflow. Bonus points for creating an account. Triple bonus points for answering a question.
 * Complete the [command line homework assignment](homework/02_command_line_chipotle.md) with the Chipotle data.
 * Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time this weekend practicing Python:
     * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
