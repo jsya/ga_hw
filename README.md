@@ -81,7 +81,7 @@ Monday | Wednesday
 * Course overview ([slides](slides/01_course_overview.pdf))
 * Group exercise 
   * [Survey] (http://goo.gl/forms/Gu23YkwnPh)
-  * Analyze results ([notebook](notebooks/01_wordcloud))
+  * Analyze results ([notebook](notebooks/01_wordcloud.ipynb))
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
 * Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
 * Discuss the course project: [requirements](project/README.md) and [example projects](https://github.com/justmarkham/DAT-project-examples)
@@ -108,7 +108,7 @@ Monday | Wednesday
 * Git and GitHub ([slides](slides/02_git_github.pdf))
 * Python Fundamentals
   * Python interfaces (shell, script, IDEs, notebooks)
-  * Fundamental programming concepts ([notebook](notebooks/02_python_fundamentals))
+  * Fundamental programming concepts ([notebook](notebooks/02_python_fundamentals.ipynb))
 
 **Homework:**
 * Find and bring in a professionally relevant dataset (if not yet done). 
