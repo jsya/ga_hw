@@ -104,17 +104,18 @@ Monday | Wednesday
 -----
 
 ### Class 2: Command Line, Git, and Python Review
-* Review command line concepts and discuss the homework exercise ([code](code/02_command_line.md))
+* Command line concepts and exercises ([code](code/02_command_line.md))
 * Git and GitHub ([slides](slides/02_git_github.pdf))
 * Python Fundamentals
   * Python interfaces (shell, script, IDEs, notebooks)
   * Fundamental programming concepts ([notebook](notebooks/02_python_fundamentals.ipynb))
+  * Extra Python [review](code/00_python_intermediate_workshop.py) 
 
 **Homework:**
 * Find and bring in a professionally relevant dataset (if not yet done). 
 * Post a question on StackOverflow. Bonus points for creating an account. Triple bonus points for answering a question.
 * Complete the [command line homework assignment](homework/02_command_line_chipotle.md) with the Chipotle data.
-* Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time this weekend practicing Python:
+* If you don't feel comfortable with the Python fundamentals, you should spend time this weekend practicing Python:
     * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
     * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
     * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
@@ -136,7 +137,7 @@ Monday | Wednesday
 * If you want to do more at the command line with CSV files, try out [csvkit](http://csvkit.readthedocs.org/), which can be installed via `pip`.
 
 -----
-
+<!---
 ### Class 3: Data Reading and Cleaning
 * Git and GitHub assorted tips ([slides](slides/02_git_github.pdf))
 * Review command line homework ([solution](homework/02_command_line_chipotle.md))
@@ -656,3 +657,7 @@ Monday | Wednesday
 * [The Global Network of Discovery](http://www.gnod.com/) provides some neat recommenders for music, authors, and movies.
 * [The People Inside Your Machine](http://www.npr.org/blogs/money/2015/01/30/382657657/episode-600-the-people-inside-your-machine) (23 minutes) is a Planet Money podcast episode about how Amazon Mechanical Turks can assist with recommendation engines (and machine learning in general).
 * Coursera has a [course](https://www.coursera.org/learn/recommender-systems) on recommendation systems, if you want to go even deeper into the material.
+
+
+-->
+
