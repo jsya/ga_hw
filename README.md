@@ -115,7 +115,7 @@ Monday | Wednesday
 * Find and bring in a professionally relevant dataset (if not yet done). 
 * Post a question on StackOverflow. Bonus points for creating an account. Triple bonus points for answering a question.
 * Complete the [command line homework assignment](homework/02_command_line_chipotle.md) with the Chipotle data.
-* If you don't feel comfortable with the Python fundamentals, you should spend time this weekend practicing Python:
+* If we don't get through the Python material, read over the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python background. If you don't feel comfortable with the Python fundamentals (except the optional stuff toward the end), you should spend time this weekend practicing basic Python:
     * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
     * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
     * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
