@@ -2,9 +2,9 @@
 
 #### Submitting Your Homework
 
-* Create a Markdown file that includes your answers **and** the code you used to arrive at those answers.
-* Add this Markdown file to a GitHub repo that you'll use for all of your coursework.
-* Submit a link to your repo using the homework submission form.
+* Create a file that includes your answers **and** the code you used to arrive at those answers. (feel free to use Markdown if you want)
+* Add this file to your homework repo that you'll use for all of your coursework. Push your changes up to GitHub.
+* Submit a link to your repo using the [homework submission form] (http://goo.gl/forms/EamVci00DO).
 
 #### Command Line Tasks
 
@@ -17,6 +17,7 @@
 7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files in the DAT8 repo.
 8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
 
+<!---
 #### Solution
 
 1. **order_id** is the unique identifier for each order. **quantity** is the number purchased of a particular item. **item_name** is the primary name for the item being purchased. **choice_description** is list of modifiers for that item. **price** is the price for that entire line (taking **quantity** into account). A given order consists of one or more rows, depending upon the number of unique items being purchased in that order.
@@ -36,3 +37,4 @@
 7. At the moment, there are 13 lines in DAT8 files that contain the word 'dictionary', which is a good approximation of the number of occurrences.
     * Change your working directory to DAT8, and then use `grep -ir 'dictionary' . | wc -l`
     * Alternatively, use the 'c' option of `grep` to skip the piping step: `grep -irc 'dictionary' .`
+-->
